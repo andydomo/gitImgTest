@@ -1,0 +1,66 @@
+{
+  "name": "GitImgTest",
+  "connectorType": "apiAction",
+  "userId": null,
+  "domoClientId": "test",
+  "domoClientSecret": "test1234",
+  "additionalInfo": "",
+  "reportLength": 1,
+  "days": 7,
+  "reports": [
+    "report1"
+  ],
+  "advancedReports": null,
+  "guid": "b1a2e980-72a8-40f8-a3e3-9517a59135b2",
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": null,
+    "value": "public"
+  },
+  "parameters": [
+    {
+      "name": "queriedDatasetId",
+      "type": "string",
+      "required": true,
+      "order": null,
+      "options": null,
+      "command": null,
+      "helpText": "The ID of the dataset in Domo you want to export data from",
+      "showWhen": null,
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:1975"
+    },
+    {
+      "name": "test",
+      "type": "integer",
+      "required": false,
+      "order": 0,
+      "options": [],
+      "command": null,
+      "helpText": null,
+      "showWhen": "",
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:1976"
+    }
+  ],
+  "commands": null,
+  "showAdvanced": true,
+  "submittedVersion": 0,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": null,
+  "testingProfiles": null,
+  "visible": true
+}

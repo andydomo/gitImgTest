@@ -1,0 +1,114 @@
+{
+  "images": [
+    "iconWithBackground",
+    "logoWithoutBackground",
+    "logoWithBackground",
+    "iconWithoutBackground"
+  ],
+  "name": "GitImgTest",
+  "connectorType": "apiAction",
+  "type": "none",
+  "authCodeText": "",
+  "userName": "",
+  "password": "",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
+  "userId": null,
+  "customAccountFields": [
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
+  ],
+  "domoClientId": "test",
+  "domoClientSecret": "test1234",
+  "authorizationURL": null,
+  "accessTokenURL": null,
+  "scope": null,
+  "additionalParameters": null,
+  "oauthUserName": null,
+  "oauthPassword": null,
+  "additionalInfo": "",
+  "reportLength": 1,
+  "days": 7,
+  "processData": "DOMO.log('hi')\nDOMO.log('TEST')      DOMO.ajax(\"test\")\n\n",
+  "reports": [
+    "report1"
+  ],
+  "advancedReports": null,
+  "guid": "b1a2e980-72a8-40f8-a3e3-9517a59135b2",
+  "authorName": "testss",
+  "accesstokenMethod": null,
+  "tokenAddlParams": null,
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": null,
+    "value": "public"
+  },
+  "parameters": [
+    {
+      "name": "queriedDatasetId",
+      "type": "string",
+      "required": true,
+      "order": null,
+      "options": null,
+      "command": null,
+      "helpText": "The ID of the dataset in Domo you want to export data from",
+      "showWhen": null,
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:1975"
+    },
+    {
+      "name": "test",
+      "type": "integer",
+      "required": false,
+      "order": 0,
+      "options": [],
+      "command": null,
+      "helpText": null,
+      "showWhen": "",
+      "value": null,
+      "dateSelectorValue": null,
+      "$$hashKey": "object:1976"
+    }
+  ],
+  "commands": null,
+  "showAdvanced": true,
+  "submittedVersion": 0,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": null,
+  "testingProfiles": null,
+  "pacerLimits": null,
+  "enableForAppstore": false,
+  "testingValue": null,
+  "libraries": [
+    "0a5d75a6-bd55-482c-9d9e-a23b55c32719",
+    "ff2bebd5-0d0c-433e-a076-9687486b188c",
+    "3c1aac4b-4c71-4c92-b3a3-404904fec568",
+    "62bd5492-1365-4031-9a7c-8b7b6a1b4ddc"
+  ],
+  "transferUserId": 2344,
+  "transferCustomerId": "1234",
+  "stakeholders": null,
+  "visible": true,
+  "validImages": [
+    "iconWithBackground",
+    "logoWithBackground",
+    "logoWithoutBackground",
+    "iconWithoutBackground"
+  ]
+}
