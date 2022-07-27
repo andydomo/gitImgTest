@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "b1a2e980-72a8-40f8-a3e3-9517a59135b2",
-  "authorName": "testss",
+  "authorName": "testss1",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,
@@ -103,7 +103,7 @@
   "validImages": [
     "logoWithBackground",
     "iconWithBackground",
-    "logoWithoutBackground",
-    "iconWithoutBackground"
+    "iconWithoutBackground",
+    "logoWithoutBackground"
   ]
 }
