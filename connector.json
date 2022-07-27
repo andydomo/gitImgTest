@@ -59,7 +59,7 @@
       "showWhen": null,
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1975"
+      "$$hashKey": "object:170"
     },
     {
       "name": "test",
@@ -72,7 +72,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:1976"
+      "$$hashKey": "object:171"
     }
   ],
   "commands": null,
@@ -95,19 +95,14 @@
   "pacerLimits": null,
   "enableForAppstore": false,
   "testingValue": null,
-  "libraries": [
-    "0a5d75a6-bd55-482c-9d9e-a23b55c32719",
-    "ff2bebd5-0d0c-433e-a076-9687486b188c",
-    "3c1aac4b-4c71-4c92-b3a3-404904fec568",
-    "62bd5492-1365-4031-9a7c-8b7b6a1b4ddc"
-  ],
-  "transferUserId": 2344,
-  "transferCustomerId": "1234",
+  "libraries": null,
+  "transferUserId": null,
+  "transferCustomerId": null,
   "stakeholders": null,
   "visible": true,
   "validImages": [
-    "iconWithBackground",
     "logoWithBackground",
+    "iconWithBackground",
     "logoWithoutBackground",
     "iconWithoutBackground"
   ]
